@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreCollection xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" collectionTitle="" collectionDescription="" collectionRef="" collectionDate="">
+	<pbcoreDescriptionDocument>
+		<pbcoreAssetType>Media Object</pbcoreAssetType>
+		<pbcoreAssetDate dateType="DateCreated">1981</pbcoreAssetDate>
+		<pbcoreAssetDate dateType="DatePublished">1981-06-01</pbcoreAssetDate>
+		<pbcoreAssetDate dateType="CopyrightDate">1981</pbcoreAssetDate>
+		<pbcoreIdentifier source="CAVPP" annotation="Internet Archive url">https://archive.org/details/canhpra_000056</pbcoreIdentifier>
+		<pbcoreIdentifier source="CAVPP" annotation="Object Identifier">canhpra_000056</pbcoreIdentifier>
+		<pbcoreIdentifier source="Pacifica Radio Archives" annotation="Call Number">KZ1102</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Object ARK">ark:/13030/c84t6m6f</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Instituion ARK">ark:/13030/c8kh0q0n</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Institution URL">http://www.pacificaradioarchives.org</pbcoreIdentifier>
+		<pbcoreTitle titleType="Main or Supplied Title">The mis-education of the black student</pbcoreTitle>
+		<pbcoreTitle titleType="Series title">Family tree</pbcoreTitle>
+		<pbcoreSubject subjectType="Topic" source="Library of Congress Subject Headings">Public schools; Education--United States; Blacks--Education; Discrimination in education--United States; Los Angeles Unified School District</pbcoreSubject>
+		<pbcoreSubject subjectType="Entity" source="Library of Congress Name Authority File">Rivers, Sylvester</pbcoreSubject>
+		<pbcoreDescription descriptionType="Summary">While the public education that Black students receive in the United States is not as overtly discriminatory as in South Africa, there are serious problems. In this program teachers from the Los Angeles Unified School District, Black educators, students and citizens discuss the education or lack of it that Black students receive. They also discuss how it affects the self-image that Blacks have, the historical development of the education of Blacks in this country, and the how the system stifles who you are. Produced by Sylvester Rivers for KPFK.</pbcoreDescription>
+		<pbcoreGenre>Documentary</pbcoreGenre>
+		<pbcoreCoverage>
+			<coverage>Los Angeles (Calif.)</coverage>
+			<coverageType>Spatial</coverageType>
+		</pbcoreCoverage>
+		<pbcoreCreator>
+			<creator>Rivers, Sylvester</creator>
+			<creatorRole>Performer</creatorRole>
+		</pbcoreCreator>
+		<pbcorePublisher>
+			<publisher>Pacifica Radio Archives</publisher>
+			<publisherRole>Publisher</publisherRole>
+		</pbcorePublisher>
+		<pbcoreRightsSummary>
+			<rightsSummary source="ISO 3166.1" annotation="CountryofCreation">US</rightsSummary>
+		</pbcoreRightsSummary>
+		<pbcoreRightsSummary>
+			<rightsSummary annotation="CopyrightStatemet">Rights are owned by Pacifica Radio Archives. Copyright Holder  has given Institution permission to provide access to the digitized work online.  Transmission or reproduction of materials protected by copyright beyond that  allowed by fair use requires the written permission of the Copyright Holder. In  addition, the reproduction of some materials may be restricted by terms of gift or  purchase agreements, donor restrictions, privacy and publicity rights, licensing  and trademarks. Works not in the public domain cannot be commercially  exploited without permission of the copyright owner. Responsibility for any use  rests exclusively with the user.</rightsSummary>
+		</pbcoreRightsSummary>
+		<pbcoreInstantiation>
+			<!-- Physical Asset -->
+			<instantiationIdentifier source="CAVPP" annotation="Object Identifier">canhpra_000056</instantiationIdentifier>
+			<instantiationDate dateType="DateCreated">1981</instantiationDate>
+			<instantiationPhysical>Reel</instantiationPhysical>
+			<instantiationStandard/>
+			<instantiationLocation>Pacifica Radio Archives</instantiationLocation>
+			<instantiationMediaType>Sound</instantiationMediaType>
+			<instantiationGenerations>Master</instantiationGenerations>
+			<instantiationDuration>00:32:46</instantiationDuration>
+			<instantiationTracks>1 audio tracks</instantiationTracks>
+			<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+			<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Audio</essenceTrackType>
+				<essenceTrackPlaybackSpeed unitsOfMeasure="ips">7.5</essenceTrackPlaybackSpeed>
+			</instantiationEssenceTrack>
+			<instantiationAnnotation annotationType="Stock Manufacturer">Unknown</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Copyright Notice">Notice for copyright claimants: The Pacifica Radio Archives will honor all takedown requests in compliance with the Digital Millennium Copyright Act and other applicable intellectual copyright laws. Please send all copyright inquiries to info@pacificaradioarchives.org or to the Archivesï¿½Ûª physical address at: 3729 Cahuenga Boulevard West, North Hollywood, CA, 91604 c/o Archives Director for review. Claimants are advised to leave detailed contact information including name, telephone number, e-mail address, and/or physical address where they may be reached, as well as all information pertaining to the specific nature of the complaint.</instantiationAnnotation>
+			<instantiationAnnotation annotationType="CONTENTdm number">270</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Additional Technical Notes for Overall Work">Transfered by Brandon Seaman: 
+Audio Hiss
+Audio Hum</instantiationAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreInstantiation>
+			<!-- Preservation Master -->
+			<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">canhpra_000056_prsv.wav</instantiationIdentifier>
+			<instantiationIdentifier source="George Blood Audio Video Film 2014-12-24" annotation="messageDigest" version="MD5">f700a4cfe5eee0236ff37dfb33ae9518</instantiationIdentifier>
+			<instantiationDate>2014-12-23</instantiationDate>
+			<instantiationDigital>audio/vnd.wave</instantiationDigital>
+			<instantiationStandard>Linear PCM Audio</instantiationStandard>
+			<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+			<instantiationMediaType>Sound</instantiationMediaType>
+			<instantiationGenerations>Preservation Master</instantiationGenerations>
+			<instantiationFileSize unitsOfMeasure="MiB">540</instantiationFileSize>
+			<instantiationDuration>00:32:45</instantiationDuration>
+			<instantiationTracks>1 audio tracks</instantiationTracks>
+			<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+			<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Audio</essenceTrackType>
+				<essenceTrackStandard>Wave</essenceTrackStandard>
+				<essenceTrackSamplingRate unitsOfMeasure="kHz">96.0</essenceTrackSamplingRate>
+				<essenceTrackBitDepth>24</essenceTrackBitDepth>
+			</instantiationEssenceTrack>
+			<instantiationRelation>
+				<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+				<instantiationRelationIdentifier annotation="Object Identifier">canhpra_000056</instantiationRelationIdentifier>
+			</instantiationRelation>
+			<instantiationAnnotation annotationType="Creating Application">MIO Console 5.5.01.208</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Source Deck">Studer_A810; 7621</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Digitizer">PrismSound_ADA-8XR; 00009</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Kerri Hughes on 2014-12-26 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreInstantiation>
+			<!-- Access Copy -->
+			<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">canhpra_000056_access.mp3</instantiationIdentifier>
+			<instantiationIdentifier source="George Blood Audio Video Film 2014-12-24" annotation="messageDigest" version="MD5">f95fc23b0be664044d54bae9dc7e24e9</instantiationIdentifier>
+			<instantiationDate>2014-12-23</instantiationDate>
+			<instantiationDigital>audio/mpeg</instantiationDigital>
+			<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+			<instantiationMediaType>Sound</instantiationMediaType>
+			<instantiationGenerations>Access Copy</instantiationGenerations>
+			<instantiationFileSize unitsOfMeasure="MiB">37.5</instantiationFileSize>
+			<instantiationDuration>00:32:45</instantiationDuration>
+			<instantiationTracks>1 audio tracks</instantiationTracks>
+			<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+			<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Audio</essenceTrackType>
+				<essenceTrackStandard>MPEG Audio</essenceTrackStandard>
+				<essenceTrackDataRate unitsOfMeasure="Kbps">160</essenceTrackDataRate>
+				<essenceTrackSamplingRate unitsOfMeasure="kHz">44.1</essenceTrackSamplingRate>
+				<essenceTrackAnnotation>Compression Mode:Lossy</essenceTrackAnnotation>
+			</instantiationEssenceTrack>
+			<instantiationRelation>
+				<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+				<instantiationRelationIdentifier annotation="File Name">canhpra_000056_prsv.wav</instantiationRelationIdentifier>
+			</instantiationRelation>
+			<instantiationAnnotation annotationType="Creating Application">SoX 14.4.1 </instantiationAnnotation>
+			<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Kerri Hughes on 2014-12-26 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreAnnotation annotationType="CAVPP Quality Control"/>
+		<pbcoreExtension>
+			<extensionWrap>
+				<extensionElement>projectNote</extensionElement>
+				<extensionValue>California Audiovisual Preservation Project (CAVPP)</extensionValue>
+				<extensionAuthorityUsed>CAVPP</extensionAuthorityUsed>
+			</extensionWrap>
+		</pbcoreExtension>
+	</pbcoreDescriptionDocument>
+</pbcoreCollection>

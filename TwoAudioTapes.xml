@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreCollection xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" collectionTitle="" collectionDescription="" collectionRef="" collectionDate="">
+	<pbcoreDescriptionDocument>
+		<pbcoreAssetType>Media Object</pbcoreAssetType>
+		<pbcoreAssetDate dateType="DateCreated">Unknown</pbcoreAssetDate>
+		<pbcoreIdentifier source="CAVPP" annotation="Internet Archive url">http://archive.org/details/cabeueda_000012</pbcoreIdentifier>
+		<pbcoreIdentifier source="CAVPP" annotation="Object Identifier">cabeueda_000012_t1</pbcoreIdentifier>
+		<pbcoreIdentifier source="CAVPP" annotation="Object Identifier">cabeueda_000012_t2</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Object ARK">ark:/13030/c88c9z2p</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Instituion ARK">ark:/13030/tf5j49p46b</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Institution URL">http://www.ced.berkeley.edu/cedarchives/</pbcoreIdentifier>
+		<pbcoreTitle titleType="Main or Supplied Title">Telesis III: Design Theory Workshop 4</pbcoreTitle>
+		<pbcoreSubject/>
+		<pbcoreDescription descriptionType="Summary">Telesis consisted of a group of architects, landscape architects, and urban planners from the Bay Area, founded in late 1939 through the merging of two groups of architects, one from San Francisco and the other from the University of California, Berkeley.</pbcoreDescription>
+		<pbcoreCreator>
+			<creator>Bauge, John; Mosher, Bob</creator>
+			<creatorRole>Interviewer</creatorRole>
+		</pbcoreCreator>
+		<pbcoreRightsSummary>
+			<rightsSummary source="ISO 3166.1" annotation="CountryofCreation">US</rightsSummary>
+		</pbcoreRightsSummary>
+		<pbcoreRightsSummary>
+			<rightsSummary annotation="CopyrightStatemet">Copyright status unknown. This work may be protected by the U.S. Copyright Law (Title 17, U.S.C.). In addition, its reproduction may be restricted by terms of gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. This work is accessible for purposes of education and research. Transmission or reproduction of works protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user. Environmental Design Archives, University of California, Berkeley attempted to find rights owners without success but is eager to hear from them so that we may obtain permission, if needed. Upon request to designarchives@berkeley.edu, digitized works can be removed from public view if there are rights issues that need to be resolved.</rightsSummary>
+		</pbcoreRightsSummary>
+		<pbcoreAnnotation annotationType="Content and Cataloging Notes">10/1/2014 BSe:
+Changed "r" in object ID to "t" to adhere to naming convention.</pbcoreAnnotation>
+		<pbcoreAnnotation annotationType="CAVPP Quality Control"/>
+		<pbcorePart>
+			<pbcoreIdentifier source="CAVPP" annotation="Object Identifier">cabeueda_000012_t1</pbcoreIdentifier>
+			<pbcoreTitle titleType="Main or Supplied Title">Telesis III: Design Theory Workshop 4</pbcoreTitle>
+			<pbcoreDescription descriptionType="Summary">Telesis consisted of a group of architects, landscape architects, and urban planners from the Bay Area, founded in late 1939 through the merging of two groups of architects, one from San Francisco and the other from the University of California, Berkeley.</pbcoreDescription>
+			<pbcoreInstantiation>
+				<!-- Physical Asset -->
+				<instantiationIdentifier source="CAVPP" annotation="Object Identifier">cabeueda_000012_t1</instantiationIdentifier>
+				<instantiationDate dateType="DateCreated">Unknown</instantiationDate>
+				<instantiationPhysical>Reel</instantiationPhysical>
+				<instantiationStandard/>
+				<instantiationLocation>Environmental Design Archives, University of California, Berkeley</instantiationLocation>
+				<instantiationMediaType>Sound</instantiationMediaType>
+				<instantiationGenerations>Unknown</instantiationGenerations>
+				<instantiationDuration>01:33:42</instantiationDuration>
+				<instantiationTracks>1 audio tracks</instantiationTracks>
+				<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+				<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+				<instantiationEssenceTrack>
+					<essenceTrackType>Audio</essenceTrackType>
+					<essenceTrackPlaybackSpeed unitsOfMeasure="ips">3.75</essenceTrackPlaybackSpeed>
+				</instantiationEssenceTrack>
+				<instantiationAnnotation annotationType="CONTENTdm number">10</instantiationAnnotation>
+				<instantiationAnnotation annotationType="CONTENTdm file name">http://archive.org/details/</instantiationAnnotation>
+				<instantiationAnnotation annotationType="CONTENTdm file path">http://archive.org/details/</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Stock Manufacturer">Unknown</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Additional Technical Notes for Overall Work">Transfered by Brandon Seaman: Microphone feedback through out on original recording.
+Audio Low Levels
+Audio Hum
+End Cut Off
+Audio Hiss</instantiationAnnotation>
+			</pbcoreInstantiation>
+			<pbcoreInstantiation>
+				<!-- Preservation Master -->
+				<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">cabeueda_000012_t1_prsv.wav</instantiationIdentifier>
+				<instantiationIdentifier source="George Blood Audio Video Film 2014-10-15" annotation="messageDigest" version="MD5">b670eb7e5e693377e82a1ef62456f79e
+</instantiationIdentifier>
+				<instantiationDate>2014-10-01</instantiationDate>
+				<instantiationDigital>audio/vnd.wave</instantiationDigital>
+				<instantiationStandard>Linear PCM Audio</instantiationStandard>
+				<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+				<instantiationMediaType>Sound</instantiationMediaType>
+				<instantiationGenerations>Preservation Master</instantiationGenerations>
+				<instantiationFileSize unitsOfMeasure="GiB">1.51</instantiationFileSize>
+				<instantiationDuration>01:33:42</instantiationDuration>
+				<instantiationTracks>1 audio tracks</instantiationTracks>
+				<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+				<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+				<instantiationEssenceTrack>
+					<essenceTrackType>Audio</essenceTrackType>
+					<essenceTrackStandard>Wave</essenceTrackStandard>
+					<essenceTrackSamplingRate unitsOfMeasure="kHz">96.0</essenceTrackSamplingRate>
+					<essenceTrackBitDepth>24</essenceTrackBitDepth>
+				</instantiationEssenceTrack>
+				<instantiationRelation>
+					<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+					<instantiationRelationIdentifier annotation="Object Identifier">cabeueda_000012_t1</instantiationRelationIdentifier>
+				</instantiationRelation>
+				<instantiationAnnotation annotationType="Creating Application">MIO Console 5.5.01.208</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Source Deck">Ampex_ATR-104; 1921680</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Digitizer">PrismSound_ADA-8XR; 00541</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Kerri Hughes on 2014-10-16 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+			</pbcoreInstantiation>
+			<pbcoreInstantiation>
+				<!-- Access Copy -->
+				<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">cabeueda_000012_t1_access.mp3</instantiationIdentifier>
+				<instantiationIdentifier source="George Blood Audio Video Film 2014-10-15" annotation="messageDigest" version="MD5">0bad9485b6d6564b36c838a45f80f0ea</instantiationIdentifier>
+				<instantiationDate>2014-10-01</instantiationDate>
+				<instantiationDigital>audio/mpeg</instantiationDigital>
+				<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+				<instantiationMediaType>Sound</instantiationMediaType>
+				<instantiationGenerations>Access Copy</instantiationGenerations>
+				<instantiationFileSize unitsOfMeasure="MiB">107</instantiationFileSize>
+				<instantiationDuration>01:33:42</instantiationDuration>
+				<instantiationTracks>1 audio tracks</instantiationTracks>
+				<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+				<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+				<instantiationEssenceTrack>
+					<essenceTrackType>Audio</essenceTrackType>
+					<essenceTrackStandard>MPEG Audio</essenceTrackStandard>
+					<essenceTrackDataRate unitsOfMeasure="Kbps">160</essenceTrackDataRate>
+					<essenceTrackSamplingRate unitsOfMeasure="kHz">44.1</essenceTrackSamplingRate>
+					<essenceTrackAnnotation>Compression Mode:Lossy</essenceTrackAnnotation>
+				</instantiationEssenceTrack>
+				<instantiationRelation>
+					<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+					<instantiationRelationIdentifier annotation="File Name">cabeueda_000012_t1_prsv.wav</instantiationRelationIdentifier>
+				</instantiationRelation>
+				<instantiationAnnotation annotationType="Creating Application">SoX 14.4.1 </instantiationAnnotation>
+				<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Kerri Hughes on 2014-10-16 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+			</pbcoreInstantiation>
+		</pbcorePart>
+		<pbcorePart>
+			<pbcoreIdentifier source="CAVPP" annotation="Object Identifier">cabeueda_000012_t2</pbcoreIdentifier>
+			<pbcoreTitle titleType="Main or Supplied Title">Telesis III: Design Theory Workshop 4</pbcoreTitle>
+			<pbcoreDescription descriptionType="Summary">Telesis consisted of a group of architects, landscape architects, and urban planners from the Bay Area, founded in late 1939 through the merging of two groups of architects, one from San Francisco and the other from the University of California, Berkeley.</pbcoreDescription>
+			<pbcoreInstantiation>
+				<!-- Physical Asset -->
+				<instantiationIdentifier source="CAVPP" annotation="Object Identifier">cabeueda_000012_t2</instantiationIdentifier>
+				<instantiationDate dateType="DateCreated">Unknown</instantiationDate>
+				<instantiationPhysical>Reel</instantiationPhysical>
+				<instantiationStandard/>
+				<instantiationLocation>Environmental Design Archives, University of California, Berkeley</instantiationLocation>
+				<instantiationMediaType>Sound</instantiationMediaType>
+				<instantiationGenerations>Unknown</instantiationGenerations>
+				<instantiationDuration>01:00:18</instantiationDuration>
+				<instantiationTracks>1 audio tracks</instantiationTracks>
+				<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+				<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+				<instantiationEssenceTrack>
+					<essenceTrackType>Audio</essenceTrackType>
+					<essenceTrackPlaybackSpeed unitsOfMeasure="ips">3.75</essenceTrackPlaybackSpeed>
+				</instantiationEssenceTrack>
+				<instantiationAnnotation annotationType="CONTENTdm number">10</instantiationAnnotation>
+				<instantiationAnnotation annotationType="CONTENTdm file name">http://archive.org/details/</instantiationAnnotation>
+				<instantiationAnnotation annotationType="CONTENTdm file path">http://archive.org/details/</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Stock Manufacturer">Unknown</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Additional Technical Notes for Overall Work">Transfered by Brandon Seaman: 
+Audio Hiss
+Audio Low Levels</instantiationAnnotation>
+			</pbcoreInstantiation>
+			<pbcoreInstantiation>
+				<!-- Preservation Master -->
+				<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">cabeueda_000012_t2_prsv.wav</instantiationIdentifier>
+				<instantiationIdentifier source="George Blood Audio Video Film 2014-10-15" annotation="messageDigest" version="MD5">2859ed43cf750868bac864b5b2c0ac5e
+</instantiationIdentifier>
+				<instantiationDate>2014-10-01</instantiationDate>
+				<instantiationDigital>audio/vnd.wave</instantiationDigital>
+				<instantiationStandard>Linear PCM Audio</instantiationStandard>
+				<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+				<instantiationMediaType>Sound</instantiationMediaType>
+				<instantiationGenerations>Preservation Master</instantiationGenerations>
+				<instantiationFileSize unitsOfMeasure="MiB">994</instantiationFileSize>
+				<instantiationDuration>01:00:17</instantiationDuration>
+				<instantiationTracks>1 audio tracks</instantiationTracks>
+				<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+				<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+				<instantiationEssenceTrack>
+					<essenceTrackType>Audio</essenceTrackType>
+					<essenceTrackStandard>Wave</essenceTrackStandard>
+					<essenceTrackSamplingRate unitsOfMeasure="kHz">96.0</essenceTrackSamplingRate>
+					<essenceTrackBitDepth>24</essenceTrackBitDepth>
+				</instantiationEssenceTrack>
+				<instantiationRelation>
+					<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+					<instantiationRelationIdentifier annotation="Object Identifier">cabeueda_000012_t2</instantiationRelationIdentifier>
+				</instantiationRelation>
+				<instantiationAnnotation annotationType="Creating Application">MIO Console 5.5.01.208</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Source Deck">SonicSolutions_SS611; 1321</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Digitizer">PrismSound_ADA-8XR; 00541</instantiationAnnotation>
+				<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Kerri Hughes on 204-10-16 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+			</pbcoreInstantiation>
+			<pbcoreInstantiation>
+				<!-- Access Copy -->
+				<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">cabeueda_000012_t2_access.mp3</instantiationIdentifier>
+				<instantiationIdentifier source="George Blood Audio Video Film 2014-10-15" annotation="messageDigest" version="MD5">ea06982e848a93f5588806f124b80fab</instantiationIdentifier>
+				<instantiationDate>2014-10-01</instantiationDate>
+				<instantiationDigital>audio/mpeg</instantiationDigital>
+				<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+				<instantiationMediaType>Sound</instantiationMediaType>
+				<instantiationGenerations>Access Copy</instantiationGenerations>
+				<instantiationFileSize unitsOfMeasure="MiB">69.0</instantiationFileSize>
+				<instantiationDuration>01:00:17</instantiationDuration>
+				<instantiationTracks>1 audio tracks</instantiationTracks>
+				<instantiationChannelConfiguration>Mono; Ch1</instantiationChannelConfiguration>
+				<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+				<instantiationEssenceTrack>
+					<essenceTrackType>Audio</essenceTrackType>
+					<essenceTrackStandard>MPEG Audio</essenceTrackStandard>
+					<essenceTrackDataRate unitsOfMeasure="Kbps">160</essenceTrackDataRate>
+					<essenceTrackSamplingRate unitsOfMeasure="kHz">44.1</essenceTrackSamplingRate>
+					<essenceTrackAnnotation>Compression Mode:Lossy</essenceTrackAnnotation>
+				</instantiationEssenceTrack>
+				<instantiationRelation>
+					<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+					<instantiationRelationIdentifier annotation="File Name">cabeueda_000012_t2_prsv.wav</instantiationRelationIdentifier>
+				</instantiationRelation>
+				<instantiationAnnotation annotationType="Creating Application">SoX 14.4.1 </instantiationAnnotation>
+				<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Kerri Hughes on 2014-10-16 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+			</pbcoreInstantiation>
+		</pbcorePart>
+		<pbcoreExtension>
+			<extensionWrap>
+				<extensionElement>projectNote</extensionElement>
+				<extensionValue>California Audiovisual Preservation Project (CAVPP)</extensionValue>
+				<extensionAuthorityUsed>CAVPP</extensionAuthorityUsed>
+			</extensionWrap>
+		</pbcoreExtension>
+	</pbcoreDescriptionDocument>
+</pbcoreCollection>

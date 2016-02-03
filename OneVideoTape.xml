@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreCollection xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" collectionTitle="" collectionDescription="" collectionRef="" collectionDate="">
+	<pbcoreDescriptionDocument>
+		<pbcoreAssetType>Media Object</pbcoreAssetType>
+		<pbcoreAssetDate dateType="Date Created">2000</pbcoreAssetDate>
+		<pbcoreIdentifier source="CAVPP" annotation="Internet Archive URL">https://archive.org/details/casdla_000053</pbcoreIdentifier>
+		<pbcoreIdentifier source="CAVPP" annotation="Object Identifier">casdla_000053</pbcoreIdentifier>
+		<pbcoreIdentifier source="Lambda Archives of San Diego" annotation="Call Number">VC032</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Object ARK">ark:/13030/c82r3thh</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Institution ARK">ark:/13030/c8tx3h2h</pbcoreIdentifier>
+		<pbcoreIdentifier source="CDL" annotation="Institution URL">http://www.lambdaarchives.us/</pbcoreIdentifier>
+		<pbcoreTitle titleType="Main or Supplied">SDDC 25th Anniversary Speech: Gloria Johnson</pbcoreTitle>
+		<pbcoreSubject/>
+		<pbcoreDescription descriptionType="Summary">The San Diego Democratic Club (now San Diego Democrats for Equality) was founded in 1975, one of the earliest LGBT organizations in the area.  It was one of very few political and social outlets for the community at the time, with many meetings held in secret due to members' fears of being outed in public.  The club has grown to be very active in regional and statewide political activities, and their endorsement is highly sought by political candidates in San Diego.  This tape has a speech by one of the club's former presidents, Gloria Johnson, who was deeply involved in local activism till her death in 2013.  It has been selected for its content as well as the fragile nature of the media.</pbcoreDescription>
+		<pbcoreCreator>
+			<creator>Unknown</creator>
+			<creatorRole>Performer</creatorRole>
+		</pbcoreCreator>
+		<pbcoreRightsSummary>
+			<rightsSummary source="ISO 3166.1" annotation="CountryofCreation">US</rightsSummary>
+		</pbcoreRightsSummary>
+		<pbcoreRightsSummary>
+			<rightsSummary annotation="Copyright Statement">Copyrighted. Rights are owned by Lambda Archives of San Diego (LASD). LASD has given Institution permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owner. In addition, the reproduction of some materials may be restricted by terms of gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user. Please contact archivist@lambdaarchives.org with any questions or concerns about these materials.</rightsSummary>
+		</pbcoreRightsSummary>
+		<pbcoreInstantiation>
+			<!-- Physical Asset -->
+			<instantiationIdentifier source="CAVPP" annotation="Object Identifier">casdla_000053</instantiationIdentifier>
+			<instantiationDate dateType="Date Created">2000</instantiationDate>
+			<instantiationPhysical>Video8</instantiationPhysical>
+			<instantiationStandard>NTSC</instantiationStandard>
+			<instantiationLocation>Lambda Archives of San Diego</instantiationLocation>
+			<instantiationMediaType>Moving Image</instantiationMediaType>
+			<instantiationGenerations>Unknown</instantiationGenerations>
+			<instantiationDuration>00:57:06</instantiationDuration>
+			<instantiationColors>color</instantiationColors>
+			<instantiationTracks>1 video track; 2 audio tracks</instantiationTracks>
+			<instantiationChannelConfiguration>stereo; Ch1, Ch2</instantiationChannelConfiguration>
+			<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Video</essenceTrackType>
+				<essenceTrackFrameRate unitsOfMeasure="fps">29.97</essenceTrackFrameRate>
+				<essenceTrackPlaybackSpeed unitsOfMeasure="fps">29.97</essenceTrackPlaybackSpeed>
+				<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+			</instantiationEssenceTrack>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Audio</essenceTrackType>
+				<essenceTrackPlaybackSpeed unitsOfMeasure="ips"/>
+			</instantiationEssenceTrack>
+			<instantiationAnnotation annotationType="Stock Manufacturer">TDK_Hi8</instantiationAnnotation>
+			<instantiationAnnotation annotationType="CONTENTdm">53</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Additional Technical Notes for Overall Work">Transfered by Tadashi Matsuura: 10/28/2014 SM:
+Pushed record tab
+
+Audio distorts in beginning.
+
+Beginning Cut Off
+Video Picture Breaks up
+No Bars and Tone
+Audio Hiss
+Audio Hum</instantiationAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreInstantiation>
+			<!-- Preservation Master -->
+			<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">casdla_000053_prsv.mov</instantiationIdentifier>
+			<instantiationIdentifier source="George Blood Audio Video Film 2015-03-30" annotation="messageDigest" version="MD5">a917d27cb8ddd550248f9242725af7ed</instantiationIdentifier>
+			<instantiationDate>2015-01-14</instantiationDate>
+			<instantiationDimensions unitsOfMeasure="Pixels">720x486</instantiationDimensions>
+			<instantiationDigital>QuickTime</instantiationDigital>
+			<instantiationStandard>MPEG-4</instantiationStandard>
+			<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+			<instantiationMediaType>Moving Image</instantiationMediaType>
+			<instantiationGenerations>Preservation Master</instantiationGenerations>
+			<instantiationFileSize unitsOfMeasure="GiB">90.16</instantiationFileSize>
+			<instantiationDuration>00:57:06</instantiationDuration>
+			<instantiationTracks>1 video track; 2 audio tracks</instantiationTracks>
+			<instantiationChannelConfiguration>stereo; Ch1, Ch2</instantiationChannelConfiguration>
+			<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Video</essenceTrackType>
+				<essenceTrackEncoding>v210/MPEG-4</essenceTrackEncoding>
+				<essenceTrackDataRate unitsOfMeasure="Bits">224</essenceTrackDataRate>
+				<essenceTrackFrameRate unitsOfMeasure="fps">29.970</essenceTrackFrameRate>
+				<essenceTrackPlaybackSpeed unitsOfMeasure="fps">29.970</essenceTrackPlaybackSpeed>
+				<essenceTrackBitDepth>10</essenceTrackBitDepth>
+				<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+				<essenceTrackAnnotation>Data Compression: Lossless</essenceTrackAnnotation>
+				<essenceTrackAnnotation>Color Space: YUV</essenceTrackAnnotation>
+			</instantiationEssenceTrack>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Audio</essenceTrackType>
+				<essenceTrackStandard>PCM</essenceTrackStandard>
+				<essenceTrackDataRate unitsOfMeasure="kHz">48.0</essenceTrackDataRate>
+				<essenceTrackBitDepth>24</essenceTrackBitDepth>
+			</instantiationEssenceTrack>
+			<instantiationRelation>
+				<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+				<instantiationRelationIdentifier annotation="Object Identifier">casdla_000053</instantiationRelationIdentifier>
+			</instantiationRelation>
+			<instantiationAnnotation annotationType="Creating Application">OpenCube Server </instantiationAnnotation>
+			<instantiationAnnotation annotationType="Source Deck">Sony_EV-C200; Notlisted</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Digitizer">AJA_FS2; 1FF002886</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Time Base Corrector">Leitch_DPS-475; BE47AN0013</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Brandon Seaman on 2015-03-30 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreInstantiation>
+			<!-- Access Copy -->
+			<instantiationIdentifier source="George Blood Audio Video Film" annotation="File Name">casdla_000053_access.HD.mov</instantiationIdentifier>
+			<instantiationIdentifier source="George Blood Audio Video Film 2015-03-30" annotation="messageDigest" version="MD5">b6de68cc3c4d182586508ad5d47983f8</instantiationIdentifier>
+			<instantiationDate>2015-01-14</instantiationDate>
+			<instantiationDimensions unitsOfMeasure="pixels">720x540</instantiationDimensions>
+			<instantiationDigital>QuickTime</instantiationDigital>
+			<instantiationStandard>MPEG-4</instantiationStandard>
+			<instantiationLocation>California Audiovisual Preservation Project</instantiationLocation>
+			<instantiationMediaType>Moving Image</instantiationMediaType>
+			<instantiationGenerations>Access Copy</instantiationGenerations>
+			<instantiationFileSize unitsOfMeasure="GiB">1.459</instantiationFileSize>
+			<instantiationDuration>00:57:06</instantiationDuration>
+			<instantiationTracks>1 video track; 2 audio tracks</instantiationTracks>
+			<instantiationChannelConfiguration>stereo; Ch1, Ch2</instantiationChannelConfiguration>
+			<instantiationLanguage source="ISO 639.2">eng</instantiationLanguage>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Video</essenceTrackType>
+				<essenceTrackEncoding>avc1/MPEG-4</essenceTrackEncoding>
+				<essenceTrackDataRate unitsOfMeasure="Kbps">3494</essenceTrackDataRate>
+				<essenceTrackFrameRate unitsOfMeasure="fps">29.970</essenceTrackFrameRate>
+				<essenceTrackPlaybackSpeed unitsOfMeasure="fps">29.970</essenceTrackPlaybackSpeed>
+				<essenceTrackBitDepth>8</essenceTrackBitDepth>
+				<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+				<essenceTrackAnnotation>Color Space: YUV</essenceTrackAnnotation>
+			</instantiationEssenceTrack>
+			<instantiationEssenceTrack>
+				<essenceTrackType>Audio</essenceTrackType>
+				<essenceTrackStandard>AAC</essenceTrackStandard>
+				<essenceTrackDataRate unitsOfMeasure="kHz">48.0</essenceTrackDataRate>
+				<essenceTrackBitDepth/>
+			</instantiationEssenceTrack>
+			<instantiationRelation>
+				<instantiationRelationType source="PBCore relationType">Derived from</instantiationRelationType>
+				<instantiationRelationIdentifier annotation="File Name">casdla_000053_prsv.mov</instantiationRelationIdentifier>
+			</instantiationRelation>
+			<instantiationAnnotation annotationType="Creating Application">ffmpeg 2.4.2</instantiationAnnotation>
+			<instantiationAnnotation annotationType="Quality Control">Quality Control was performed by Brandon Seaman on 2015-03-30 and included a spot check of content, as well as the validation of the folder nest, file name, duration, format variation, and metadata</instantiationAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreAnnotation annotationType="CAVPP Quality Control"/>
+		<pbcoreExtension>
+			<extensionWrap>
+				<extensionElement>projectNote</extensionElement>
+				<extensionValue>California Audiovisual Preservation Project (CAVPP)</extensionValue>
+				<extensionAuthorityUsed>CAVPP</extensionAuthorityUsed>
+			</extensionWrap>
+		</pbcoreExtension>
+	</pbcoreDescriptionDocument>
+</pbcoreCollection>
